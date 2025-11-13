@@ -1,42 +1,18 @@
-# 👋 Hi, I'm Mohand Amged!
+# 💫 About Me:
+I'm a Full-Stack Developer with a strong focus on Frontend Development.<br>Currently, I'm learning Data Structures and Algorithms (DSA) to level up my problem-solving skills.<br><br>💻 I love building clean, responsive web apps and exploring new technologies.<br>🚀 Always learning, always growing.
 
-### 🚀 Full Stack JavaScript Developer
 
-I'm a passionate Full Stack Developer specializing in building modern web applications with JavaScript and TypeScript. I love creating seamless user experiences and robust backend systems using the latest technologies.
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohandamged) 
 
----
-
-## 🛠️ Tech Stack
-
-- **Languages:** JavaScript, TypeScript, a bit of Python
-- **Frontend:** React.js, Next.js
-- **Backend:** Express.js
-- **Database:** MongoDB (with Mongoose)
-
----
-
-## 🌟 Featured Project
-
-[![Gaming-platform](https://github-readme-stats.vercel.app/api/pin/?username=mohand-amged&repo=Gaming-platform)](https://github.com/mohand-amged/Gaming-platform)
-
-> **Gaming-platform**: My favorite project where I explore scalable web app architecture, real-time features, and modern JavaScript practices.
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=mohand-amged&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=mohand-amged&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mohand-amged&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=mohand-amged&icon=2&color=1)](https://visitcount.itsvg.in)
 
-## 📊 GitHub Stats
-
-![Mohand's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohand-amged&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohand-amged&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
-## 🔗 Connect with Me
-
-- [LinkedIn](https://www.linkedin.com/in/mohandamged/)
-- [Portfolio](https://protofilo-sage.vercel.app/)
-
----
-
-<!--
-**mohand-amged/mohand-amged** is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile!
--->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
